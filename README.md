@@ -3,6 +3,8 @@
 ## Semi-supervised Co-training Model Using Convolution and Transformer for Hyperspectral Image Classification (SCM-CT)
 The manuscript titled "**Semi-supervised Co-training Model Using Convolution and Transformer for Hyperspectral Image Classification**" has been submitted to IEEE GRSL, which is an official implementation for **SCM-CT**.
 
+The relevant code will be open sourced shortly after the completion of the organization.
+
 ## Pytorch
 Torch: 1.11.0
 
