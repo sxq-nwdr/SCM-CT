@@ -6,18 +6,18 @@ The manuscript titled "**Convolution Transformer Mixer for Hyperspectral Image C
 ## Pytorch
 Torch: 1.11.0
 
-Python: 3.7.3
- 
-## Model
-Learning Rate: 0.001
+Python: 3.8
 
-Epoch: 100
+## Model
+Learning Rate: 0.005
+
+Epoch: 10
 
 Batch Size: 100
 
-Patch Size: $11\times11$
+Patch Size: $14\times14$
 
-Optimizer: Adam (weight_decay=1e-4)
+Optimizer: Adam
 
 ## Other
 
